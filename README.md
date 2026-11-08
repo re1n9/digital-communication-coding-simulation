@@ -28,4 +28,3 @@ The simulation settings near the top of `main.m` select the constellation, encod
 ## Project note
 
 This repository is a curated version of a team course project. It is presented as collaborative work and does not imply sole authorship.
-

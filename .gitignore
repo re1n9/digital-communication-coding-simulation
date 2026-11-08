@@ -1,0 +1,9 @@
+*.asv
+*.m~
+slprj/
+codegen/
+__MACOSX/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
